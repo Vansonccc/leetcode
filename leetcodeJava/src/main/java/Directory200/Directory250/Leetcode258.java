@@ -1,3 +1,5 @@
+package Directory200.Directory250;
+
 public class Leetcode258 {
     public static void main(String[] args) {
         System.out.println(addDigits(38));
