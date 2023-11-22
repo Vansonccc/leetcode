@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d73b95df-07b2-40d6-8df1-3714c0fcffbc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/leetcodeJava/src/main/java/Directory2200/Directory2210/Leetcode2216.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcodeJava/src/main/java/Directory800/Directory870/Leetcode876.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcodeJava/src/main/java/Directory100/Directory120/Leetcode128.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcodeJava/src/main/java/Directory300/Directory380/Leetcode383.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcodeJava/src/main/java/LCR/LCR128.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -66,7 +67,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/leetcodeJava/src/main/java/Directory800/Directory870/Leetcode876.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="120">
@@ -75,6 +76,39 @@
                 <element signature="e#243#244#0" expanded="true" />
                 <element signature="e#281#282#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/leetcodeJava/src/main/java/Directory300/Directory380/Leetcode383.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="375">
+              <caret line="25" column="20" selection-start-line="25" selection-start-column="20" selection-end-line="25" selection-end-column="20" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/leetcodeJava/src/main/java/Directory100/Directory120/Leetcode128.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="390">
+              <caret line="26" column="19" selection-start-line="26" selection-start-column="19" selection-end-line="26" selection-end-column="19" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/leetcodeJava/src/main/java/LCR/LCR128.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="21" column="27" selection-start-line="21" selection-start-column="27" selection-end-line="21" selection-end-column="27" />
             </state>
           </provider>
         </entry>
@@ -111,6 +145,9 @@
         <option value="$PROJECT_DIR$/leetcodeJava/src/main/java/Directory2800/Directory2830/Leetcode2839.java" />
         <option value="$PROJECT_DIR$/leetcodeJava/src/main/java/Directory2200/Directory2210/Leetcode2216.java" />
         <option value="$PROJECT_DIR$/leetcodeJava/src/main/java/Directory800/Directory870/Leetcode876.java" />
+        <option value="$PROJECT_DIR$/leetcodeJava/src/main/java/Directory300/Directory380/Leetcode383.java" />
+        <option value="$PROJECT_DIR$/leetcodeJava/src/main/java/Directory100/Directory120/Leetcode128.java" />
+        <option value="$PROJECT_DIR$/leetcodeJava/src/main/java/LCR/LCR128.java" />
       </list>
     </option>
   </component>
@@ -181,7 +218,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="Directory800" type="462c0819:PsiDirectoryNode" />
+              <item name="LCR" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -191,7 +228,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1700575728566" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1700659215545" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -301,7 +338,7 @@
     <frame x="0" y="25" width="1920" height="966" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25772098" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25772098" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -310,7 +347,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32949308" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32949308" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -390,6 +427,33 @@
             <element signature="e#243#244#0" expanded="true" />
             <element signature="e#281#282#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcodeJava/src/main/java/Directory300/Directory380/Leetcode383.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="20" selection-start-line="25" selection-start-column="20" selection-end-line="25" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcodeJava/src/main/java/Directory100/Directory120/Leetcode128.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" column="19" selection-start-line="26" selection-start-column="19" selection-end-line="26" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcodeJava/src/main/java/LCR/LCR128.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="27" selection-start-line="21" selection-start-column="27" selection-end-line="21" selection-end-column="27" />
         </state>
       </provider>
     </entry>
