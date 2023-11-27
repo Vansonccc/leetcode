@@ -1,7 +1,4 @@
-package Directory2900.Directory2930;
-
-import java.util.ArrayList;
-import java.util.List;
+package Directory2900.Sub30;
 
 public class Leetcode2938 {
     public static void main(String[] args) {
