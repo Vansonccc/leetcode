@@ -1,4 +1,4 @@
-package Directory2200.Directory2210;
+package Directory2200.Sub10;
 
 public class Leetcode2216 {
     public static void main(String[] args) {
