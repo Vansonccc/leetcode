@@ -1,9 +1,4 @@
-package Directory1100.Directory1100;
-
-import java.util.ArrayList;
-import java.util.Collection;
-import java.util.HashMap;
-import java.util.Map;
+package Directory1100.Sub00;
 
 public class Leetcode1109 {
     public static void main(String[] args) {
