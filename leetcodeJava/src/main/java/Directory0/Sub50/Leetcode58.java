@@ -1,4 +1,4 @@
-package Directory0.Diretory50;
+package Directory0.Sub50;
 
 public class Leetcode58 {
     public static void main(String[] args) {
